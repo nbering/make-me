@@ -1,6 +1,6 @@
 {
   "name": "make-me",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A generator tool for READM.md's.",
   "main": "index.js",
   "scripts": {
