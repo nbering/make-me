@@ -1,0 +1,28 @@
+{
+  "name": "make-me",
+  "version": "0.0.1",
+  "description": "A generator tool for READM.md's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "make-me": "./index,js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbering/make-me.git"
+  },
+  "keywords": [
+    "readme",
+    "documentation",
+    "generator",
+    "tools"
+  ],
+  "author": "Nicholas Bering <bering.nicholas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbering/make-me/issues"
+  },
+  "homepage": "https://github.com/nbering/make-me#readme"
+}
