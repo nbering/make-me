@@ -1,4 +1,6 @@
-# My Awesome Project
+# Make Me
+
+A tool for generating boilerplate readme files.
 
 ## Install
 
